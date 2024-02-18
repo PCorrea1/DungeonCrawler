@@ -27,9 +27,9 @@ public class InitialConfigurationScreen extends Application {
     private Enum myWeapon;
     //private boolean myPlayerIsReadyToPlay = false;
 
-    private final String knight = "./media/MainHeroesPNG/Knight/knight.png";
-    private final String mage = "./media/MainHeroesPNG/Mage/mage.png";
-    private final String rogue = "./media/MainHeroesPNG/Rogue/rogue.png";
+    private final String knight = "./media/MainHeroesPNG/knight.png";
+    private final String mage = "./media/MainHeroesPNG/mage.png";
+    private final String rogue = "./media/MainHeroesPNG/rogue.png";
 
     // beginner: 20 health, 100 coins, 1 difficulty
     // intermediate: 15 health, 75 coins, 2 difficulty
